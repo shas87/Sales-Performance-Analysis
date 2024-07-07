@@ -82,3 +82,5 @@ Maven Toys Ciudad de Mexico 2, should get more investment because maximum profit
 
 Classic Dominoes product should be discontinued because revenue and number of units sold both are on the lower side.
 
+![52](https://github.com/shas87/excelProject/assets/139848347/e906aee2-df33-46f9-a3de-33ad172d874b)  ![51](https://github.com/shas87/excelProject/assets/139848347/5aa2f2f9-c529-4fd7-a981-657fea8c0e6f)
+
