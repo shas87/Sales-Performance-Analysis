@@ -8,7 +8,7 @@ Because the data wasn't just a singular table full of data, an understanding of 
 # Objective
 Create an executive dashboard which shows key metrics like revenue, profit, loss, inventory, out of stock products. It should be possible to select the date and time, store and product in the MS-Excel dashboard and data should change to reflect the applied  filters.
 
-Answer the folowing questions:
+Answer the following questions:
 1. Which is the most profitable store?
 2. List down top 5 most profitable products.
 3. List down most in demand product.
