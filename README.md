@@ -1,6 +1,10 @@
 # Maven Toys Sales Performance Analysis
 In this project, I will be assuming the role of a analyst who has just been hired by this fictional company - Maven Toys. As they look to expand their business with new stores, they've brought me in to analyze interesting patterns and trends in their data and help them make informed decisions.
 
+**Dataset**<br/>
+This particular dataset contained multiple tables: Sales, Inventory, Products, Stores with records being close to the 1M mark.<br/>
+Because the data wasn't just a singular table full of data, an understanding of how to join or establish relationship between different tables without having redundant or repeating records were important.
+
 # Objective
 Create an executive dashboard which shows key metrics like revenue, profit, loss, inventory, out of stock products. It should be possible to select the date and time, store and product in the MS-Excel dashboard and data should change to reflect the applied  filters.
 
@@ -39,11 +43,11 @@ Inventory:
 - Product_ID - Unique ID given to each product offered
 - Stock_On_Hand - Stock quantity of the product in the store
 
-**one to many relationship:**
+**one to many relationship between tables:**
 1. Products --> Sales
 2. Stores --> Sales
 3. Products --> Inventory
-4. Stores --> Sales
+4. Stores --> Inventory
 
 # Deliverable
 A dashboard or report containing analysis and actionable insights.
@@ -75,14 +79,6 @@ Maven Toys Ciudad de Mexico 2, should get more investment because maximum profit
 **5. Which product shows least promise and should be discontinued?** <br/>
 
 Classic Dominoes product should be discontinued because revenue and number of units sold both are on the lower side.
-
-
-
-
-
-
-
-
 
 
 
