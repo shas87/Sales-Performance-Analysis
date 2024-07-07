@@ -52,9 +52,11 @@ Inventory:
 # Deliverable
 A dashboard or report containing analysis and actionable insights.
 
-# Dashboard
+# Dashboard 
 
 ![dash](https://github.com/shas87/excelProject/assets/139848347/cbd012b1-9850-401e-8fb6-3e72c37c9752)
+
+[Dashboard](https://drive.google.com/drive/folders/1aMsxzQNsM-9YcWLoz2ZbOMelMGfwLBcT?usp=sharing)
 
 **1. Which is the most profitable store?** <br/>
 
@@ -80,4 +82,3 @@ Maven Toys Ciudad de Mexico 2, should get more investment because maximum profit
 
 Classic Dominoes product should be discontinued because revenue and number of units sold both are on the lower side.
 
-[**Dashboard Link**](https://drive.google.com/drive/folders/1bZpwBBK2kshK5WNJ0pcxzmsM2ixyEK72?usp=sharing)
