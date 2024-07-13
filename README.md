@@ -1,9 +1,8 @@
 # Maven Toys Sales Performance Analysis
-In this project, I will be assuming the role of a analyst who has just been hired by this fictional company - Maven Toys. As they look to expand their business with new stores, they've brought me in to analyze interesting patterns and trends in their data and help them make informed decisions.
+In this project, I will be assuming the role of a analyst who has just been hired by the company - Maven Toys. As they look to expand their business with new stores, they've brought me in to analyze patterns and trends in their data and help them make informed decisions.
 
 **Dataset**<br/>
-This particular dataset contained multiple tables: Sales, Inventory, Products, Stores with records being close to the 1M mark.<br/>
-Because the data wasn't just a singular table full of data, an understanding of how to join or establish relationship between different tables without having redundant or repeating records were important.
+This particular dataset contained multiple tables: Sales, Inventory, Products, Stores. Because the data wasn't just a singular table full of data, an understanding of how to join or establish relationship between different tables without having redundant or repeating records were important.
 
 # Objective
 Create an executive dashboard which shows key metrics like revenue, profit, loss, inventory, out of stock products. It should be possible to select the date and time, store and product in the MS-Excel dashboard and data should change to reflect the applied  filters.
@@ -83,4 +82,13 @@ Maven Toys Ciudad de Mexico 2, should get more investment because maximum profit
 Classic Dominoes product should be discontinued because revenue and number of units sold both are on the lower side.
 
 ![52](https://github.com/shas87/excelProject/assets/139848347/e906aee2-df33-46f9-a3de-33ad172d874b)  ![51](https://github.com/shas87/excelProject/assets/139848347/5aa2f2f9-c529-4fd7-a981-657fea8c0e6f)
+
+**6. What is our market penetration? That is, how many stores and cities are we currently in?** <br/>
+
+Total number of stores: 50 <br/>
+Number of cities: 29 <br/>
+
+![1](https://github.com/user-attachments/assets/fb311a75-5554-4f61-9ab6-57885f9ff158)
+
+**7. **
 
