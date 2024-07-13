@@ -1,8 +1,8 @@
 # Maven Toys Sales Performance Analysis
-In this project, I will be assuming the role of a analyst who has just been hired by the company - Maven Toys. As they look to expand their business with new stores, they've brought me in to analyze patterns and trends in their data and help them make informed decisions.
+In this project, I will be assuming the role of an analyst who has just been hired by the company : Maven Toys. As they look to expand their business with new stores, they've brought me in to analyze patterns and trends in their data and help them make informed decisions.
 
 **Dataset**<br/>
-This particular dataset contained multiple tables: Sales, Inventory, Products, Stores. Because the data wasn't just a singular table full of data, an understanding of how to join or establish relationship between different tables without having redundant or repeating records were important.
+This particular dataset contained multiple tables: Sales, Inventory, Products, Stores data wasn't just a singular table full of data, an understanding of how to join or establish relationship between different tables without having redundant or repeating records were important.
 
 # Objective
 Create an executive dashboard which shows key metrics like revenue, profit, loss, inventory, out of stock products. It should be possible to select the date and time, store and product in the MS-Excel dashboard and data should change to reflect the applied  filters.
@@ -14,7 +14,7 @@ Answer the following questions:
 4. Which store shows most potential and should get investment?
 5. Which product shows least promise and should be discontinued?
 6. What is our market penetration? That is, how many stores and cities are we currently in? 
-7. Which product category drives the largest profits?
+7. Which product category drives the highest profits?
 
 # Data Model
 Products (35 unique products):
@@ -92,7 +92,7 @@ Number of cities: 29 <br/>
 
 ![2](https://github.com/user-attachments/assets/904b8aa4-cdf3-4ac9-84c3-2c10f277ccd6)
 
-**7. Which product category drives the largest profits?** <br/>
+**7. Which product category drives the highest profits?** <br/>
 
 Largest profit among the five product categories was observed in Toys, reaching $1,079,527. This figure was 113.46% higher than the lowest total profit, which was in the Sports & Outdoors category at $505,718<br/>
 
@@ -104,12 +104,11 @@ Toys accounted for a significant portion of the total profits, contributing to 2
 
 - Based on the insights gathered from my analysis, Maven Toys can approach the expansion based on the store location. Maven Toys should consider expanding further in downtown areas, especially in cities with strong economic activity and high population density. There should be a focus on storefront visibility and unique promotions to capture the attention of passersby.
 
-
+![newsnip](https://github.com/user-attachments/assets/84c68976-c682-4d00-82d0-4461ef778217)
 
 - They should increase their offering in Toys and Electronics product category.
 
 ![81](https://github.com/user-attachments/assets/d8586f0b-4ab8-4c8e-b4c1-58091c8d2edb)
 
 ![3](https://github.com/user-attachments/assets/94f10e39-be96-470a-a7ea-718a752ee397)
-
--   
+   
